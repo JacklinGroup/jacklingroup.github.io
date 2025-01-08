@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xuan Lin | BioAI课题组</title>
-    <link>http://localhost:44315/author/xuan-lin/</link>
-      <atom:link href="http://localhost:44315/author/xuan-lin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:45185/author/xuan-lin/</link>
+      <atom:link href="http://localhost:45185/author/xuan-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuan Lin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 24 Dec 2024 01:48:07 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:44315/author/xuan-lin/avatar_hu17143120709406117201.jpg</url>
+      <url>http://localhost:45185/author/xuan-lin/avatar_hu17143120709406117201.jpg</url>
       <title>Xuan Lin</title>
-      <link>http://localhost:44315/author/xuan-lin/</link>
+      <link>http://localhost:45185/author/xuan-lin/</link>
     </image>
     
     <item>
-      <title>Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</title>
-      <link>http://localhost:44315/publication/peit/</link>
+      <title>Deep learning for drug repurposing: Methods, databases, and applications</title>
+      <link>http://localhost:45185/publication/drug_survey/</link>
       <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
-      <guid>http://localhost:44315/publication/peit/</guid>
+      <guid>http://localhost:45185/publication/drug_survey/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -32,10 +32,82 @@
     </item>
     
     <item>
+      <title>Interpretable multi-view attention network for drug-drug interaction prediction</title>
+      <link>http://localhost:45185/publication/mva-ddi/</link>
+      <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
+      <guid>http://localhost:45185/publication/mva-ddi/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kg-mtl: knowledge graph enhanced multi-task learning for molecular interaction</title>
+      <link>http://localhost:45185/publication/kg-mtl/</link>
+      <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
+      <guid>http://localhost:45185/publication/kg-mtl/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</title>
+      <link>http://localhost:45185/publication/peit/</link>
+      <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
+      <guid>http://localhost:45185/publication/peit/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>湘潭华银生态园团建</title>
+      <link>http://localhost:45185/event/2024.01/</link>
+      <pubDate>Sat, 28 Sep 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:45185/event/2024.01/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction</title>
-      <link>http://localhost:44315/publication/ctf-ddi/</link>
+      <link>http://localhost:45185/publication/ctf-ddi/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44315/publication/ctf-ddi/</guid>
+      <guid>http://localhost:45185/publication/ctf-ddi/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

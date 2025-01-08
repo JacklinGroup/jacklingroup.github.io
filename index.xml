@@ -2,21 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BioAI课题组</title>
-    <link>http://localhost:44315/</link>
-      <atom:link href="http://localhost:44315/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:45185/</link>
+      <atom:link href="http://localhost:45185/index.xml" rel="self" type="application/rss+xml" />
     <description>BioAI课题组</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:44315/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:45185/media/icon_hu11734318148517933569.png</url>
       <title>BioAI课题组</title>
-      <link>http://localhost:44315/</link>
+      <link>http://localhost:45185/</link>
     </image>
     
     <item>
-      <title>Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</title>
-      <link>http://localhost:44315/publication/peit/</link>
+      <title>Deep learning for drug repurposing: Methods, databases, and applications</title>
+      <link>http://localhost:45185/publication/drug_survey/</link>
       <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
-      <guid>http://localhost:44315/publication/peit/</guid>
+      <guid>http://localhost:45185/publication/drug_survey/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effectively identifying compound-protein interaction using graph neural representation</title>
+      <link>http://localhost:45185/publication/graphcpi/</link>
+      <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
+      <guid>http://localhost:45185/publication/graphcpi/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interpretable multi-view attention network for drug-drug interaction prediction</title>
+      <link>http://localhost:45185/publication/mva-ddi/</link>
+      <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
+      <guid>http://localhost:45185/publication/mva-ddi/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kg-mtl: knowledge graph enhanced multi-task learning for molecular interaction</title>
+      <link>http://localhost:45185/publication/kg-mtl/</link>
+      <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
+      <guid>http://localhost:45185/publication/kg-mtl/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction</title>
+      <link>http://localhost:45185/publication/kgnn/</link>
+      <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
+      <guid>http://localhost:45185/publication/kgnn/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</title>
+      <link>http://localhost:45185/publication/peit/</link>
+      <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
+      <guid>http://localhost:45185/publication/peit/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -33,17 +128,17 @@
     
     <item>
       <title>如何写自己的个人信息页面</title>
-      <link>http://localhost:44315/tutorials/24-12-17-person-tutorials/</link>
+      <link>http://localhost:45185/tutorials/24-12-17-person-tutorials/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44315/tutorials/24-12-17-person-tutorials/</guid>
+      <guid>http://localhost:45185/tutorials/24-12-17-person-tutorials/</guid>
       <description></description>
     </item>
     
     <item>
       <title>湘潭华银生态园团建</title>
-      <link>http://localhost:44315/event/2024.01/</link>
+      <link>http://localhost:45185/event/2024.01/</link>
       <pubDate>Sat, 28 Sep 2024 13:00:00 +0000</pubDate>
-      <guid>http://localhost:44315/event/2024.01/</guid>
+      <guid>http://localhost:45185/event/2024.01/</guid>
       <description>&lt;!-- Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
@@ -56,9 +151,28 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction</title>
-      <link>http://localhost:44315/publication/ctf-ddi/</link>
+      <link>http://localhost:45185/publication/ctf-ddi/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44315/publication/ctf-ddi/</guid>
+      <guid>http://localhost:45185/publication/ctf-ddi/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive evaluation of deep and graph learning on drug--drug interactions prediction</title>
+      <link>http://localhost:45185/publication/ddi_survey/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:45185/publication/ddi_survey/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -75,33 +189,37 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:44315/contact/</link>
+      <link>http://localhost:45185/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44315/contact/</guid>
-      <description></description>
+      <guid>http://localhost:45185/contact/</guid>
+      <description>&lt;p&gt;希望申请我的学生具有以下基本素养：1）有很强的上进心和科研热情；2）至少熟悉一门编程语言；3）具有扎实的英语和数学基础。对有志于攻读硕士或博士学位的同学，请尽早与我联系，但是在联系前，请先阅读一篇人工智能顶级会议或Nature子刊论文，告诉我为什么对这篇论文感兴趣，请你在电子邮件中详细说明你的各方面情况，包括你选择读研的原因，以及你的目标及未来打算等。&lt;/p&gt;
+&lt;h1 id=&#34;在确定您是否能成为我们研究团队的一员之前我们需要充分的时间相互了解和熟悉为此我们会安排一些任务对您进行测试以及安排当面的面谈等一旦我们认为您具有科研潜力会立即给您提供各项训练和指导帮助您迅速成长即使您以后由于其他原因不能加入本研究组我们也会尽心尽责值得一提的是我们也招收一部分优秀本科实习生在保证不影响正常学习的情况下接受一些科研训练&#34;&gt;在确定您是否能成为我们研究团队的一员之前，我们需要充分的时间相互了解和熟悉。为此，我们会安排一些任务对您进行测试以及安排当面的面谈等。一旦我们认为您具有科研潜力，会立即给您提供各项训练和指导，帮助您迅速成长，即使您以后由于其他原因不能加入本研究组，我们也会尽心尽责。值得一提的是，我们也招收一部分优秀本科实习生，在保证不影响正常学习的情况下接受一些科研训练。&lt;/h1&gt;
+&lt;h1 id=&#34;我鼓励研究生读书期间学习驾驶参加马拉松恋爱度假等但是我不允许我的学生参于学生会与学生干部工作不允许我的学生忙于做家教助教等工作不希望我的学生把大部分精力放在谈恋爱上我鼓励我的学生以科研作为一生追求的目标鼓励我的硕士学生在毕业后出国读博鼓励我的硕士学生去it公司从事技术研发或以技术为核心创业并会尽我全力帮助&#34;&gt;我鼓励研究生读书期间学习驾驶、参加马拉松、恋爱、度假等。但是，我不允许我的学生参于学生会与学生干部工作，不允许我的学生忙于做家教、助教等工作，不希望我的学生把大部分精力放在谈恋爱上，我鼓励我的学生以科研作为一生追求的目标，鼓励我的硕士学生在毕业后出国读博，鼓励我的硕士学生去IT公司从事技术研发或以技术为核心创业，并会尽我全力帮助。&lt;/h1&gt;
+&lt;h1 id=&#34;我期望我的学生从事高水平的科学研究只在中国计算机学会推荐期刊会议列表和一流的期刊会议上发表经得住时间考验的学术成果做我的学生就需要将自身的定位与眼光放在世界第一流团队的第一流工作上在硕士和博士期间做真正有国际影响力的工作不要以追求垃圾sci或ei论文的数量为自己的浅薄理想对于发表列表内论文的学生我将提供额外的科研奖励对于发表a类国际会议长文的学生我无论经费是否允许都将资助你们出国开会&#34;&gt;我期望我的学生从事高水平的科学研究，只在《中国计算机学会推荐期刊会议列表》和一流的期刊会议上发表经得住时间考验的学术成果。做我的学生，就需要将自身的定位与眼光放在世界第一流团队的第一流工作上，在硕士和博士期间做真正有国际影响力的工作，不要以追求垃圾SCI或EI论文的数量为自己的浅薄理想。对于发表列表内论文的学生，我将提供额外的科研奖励，对于发表A类国际会议长文的学生，我无论经费是否允许都将资助你们出国开会。&lt;/h1&gt;
+</description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://localhost:44315/people/</link>
+      <link>http://localhost:45185/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44315/people/</guid>
+      <guid>http://localhost:45185/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>http://localhost:44315/tour/</link>
+      <link>http://localhost:45185/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44315/tour/</guid>
+      <guid>http://localhost:45185/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>http://localhost:44315/tutorials/20-12-02-icml-best-paper/</link>
+      <link>http://localhost:45185/tutorials/20-12-02-icml-best-paper/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44315/tutorials/20-12-02-icml-best-paper/</guid>
+      <guid>http://localhost:45185/tutorials/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -110,9 +228,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>http://localhost:44315/tutorials/20-12-01-wowchemy-prize/</link>
+      <link>http://localhost:45185/tutorials/20-12-01-wowchemy-prize/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44315/tutorials/20-12-01-wowchemy-prize/</guid>
+      <guid>http://localhost:45185/tutorials/20-12-01-wowchemy-prize/</guid>
       <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -121,9 +239,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title></title>
-      <link>http://localhost:44315/admin/config.yml</link>
+      <link>http://localhost:45185/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44315/admin/config.yml</guid>
+      <guid>http://localhost:45185/admin/config.yml</guid>
       <description></description>
     </item>
     
