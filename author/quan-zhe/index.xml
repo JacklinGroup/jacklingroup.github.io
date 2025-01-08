@@ -2,51 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quan, Zhe | BioAI课题组</title>
-    <link>http://localhost:45185/author/quan-zhe/</link>
-      <atom:link href="http://localhost:45185/author/quan-zhe/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:33883/author/quan-zhe/</link>
+      <atom:link href="http://localhost:33883/author/quan-zhe/index.xml" rel="self" type="application/rss+xml" />
     <description>Quan, Zhe</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 24 Dec 2024 01:48:07 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:45185/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:33883/media/icon_hu11734318148517933569.png</url>
       <title>Quan, Zhe</title>
-      <link>http://localhost:45185/author/quan-zhe/</link>
+      <link>http://localhost:33883/author/quan-zhe/</link>
     </image>
     
     <item>
       <title>Effectively identifying compound-protein interaction using graph neural representation</title>
-      <link>http://localhost:45185/publication/graphcpi/</link>
-      <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
-      <guid>http://localhost:45185/publication/graphcpi/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <link>http://localhost:33883/publication/graphcpi/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33883/publication/graphcpi/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
       <title>KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction</title>
-      <link>http://localhost:45185/publication/kgnn/</link>
-      <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
-      <guid>http://localhost:45185/publication/kgnn/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <link>http://localhost:33883/publication/kgnn/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33883/publication/kgnn/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
