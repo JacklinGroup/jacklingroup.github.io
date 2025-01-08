@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xuan Lin | BioAI课题组</title>
-    <link>http://localhost:33883/author/xuan-lin/</link>
-      <atom:link href="http://localhost:33883/author/xuan-lin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/xuan-lin/</link>
+      <atom:link href="http://localhost:1313/author/xuan-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuan Lin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 24 Dec 2024 01:48:07 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:33883/author/xuan-lin/avatar_hu17143120709406117201.jpg</url>
+      <url>http://localhost:1313/author/xuan-lin/avatar_hu17143120709406117201.jpg</url>
       <title>Xuan Lin</title>
-      <link>http://localhost:33883/author/xuan-lin/</link>
+      <link>http://localhost:1313/author/xuan-lin/</link>
     </image>
     
     <item>
       <title>Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</title>
-      <link>http://localhost:33883/publication/peit/</link>
+      <link>http://localhost:1313/publication/peit/</link>
       <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
-      <guid>http://localhost:33883/publication/peit/</guid>
+      <guid>http://localhost:1313/publication/peit/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>湘潭华银生态园团建</title>
-      <link>http://localhost:33883/event/2024.01/</link>
+      <link>http://localhost:1313/event/2024.01/</link>
       <pubDate>Sat, 28 Sep 2024 13:00:00 +0000</pubDate>
-      <guid>http://localhost:33883/event/2024.01/</guid>
+      <guid>http://localhost:1313/event/2024.01/</guid>
       <description>&lt;!-- Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
@@ -56,9 +56,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction</title>
-      <link>http://localhost:33883/publication/ctf-ddi/</link>
+      <link>http://localhost:1313/publication/ctf-ddi/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33883/publication/ctf-ddi/</guid>
+      <guid>http://localhost:1313/publication/ctf-ddi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -83,9 +83,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Interpretable multi-view attention network for drug-drug interaction prediction</title>
-      <link>http://localhost:33883/publication/mva-ddi/</link>
+      <link>http://localhost:1313/publication/mva-ddi/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33883/publication/mva-ddi/</guid>
+      <guid>http://localhost:1313/publication/mva-ddi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -110,9 +110,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Kg-mtl: knowledge graph enhanced multi-task learning for molecular interaction</title>
-      <link>http://localhost:33883/publication/kg-mtl/</link>
+      <link>http://localhost:1313/publication/kg-mtl/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33883/publication/kg-mtl/</guid>
+      <guid>http://localhost:1313/publication/kg-mtl/</guid>
       <description>&lt;!-- 
 
 
@@ -138,9 +138,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Deep learning for drug repurposing: Methods, databases, and applications</title>
-      <link>http://localhost:33883/publication/drug_survey/</link>
+      <link>http://localhost:1313/publication/drug_survey/</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33883/publication/drug_survey/</guid>
+      <guid>http://localhost:1313/publication/drug_survey/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
