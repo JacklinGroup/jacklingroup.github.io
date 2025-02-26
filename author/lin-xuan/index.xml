@@ -2,75 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lin, Xuan | BioAI课题组</title>
-    <link>http://localhost:33883/author/lin-xuan/</link>
-      <atom:link href="http://localhost:33883/author/lin-xuan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacklingroup.github.io/author/lin-xuan/</link>
+      <atom:link href="https://jacklingroup.github.io/author/lin-xuan/index.xml" rel="self" type="application/rss+xml" />
     <description>Lin, Xuan</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:33883/media/icon_hu11734318148517933569.png</url>
+      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
       <title>Lin, Xuan</title>
-      <link>http://localhost:33883/author/lin-xuan/</link>
+      <link>https://jacklingroup.github.io/author/lin-xuan/</link>
     </image>
     
     <item>
-      <title>Comprehensive evaluation of deep and graph learning on drug--drug interactions prediction</title>
-      <link>http://localhost:33883/publication/ddi_survey/</link>
-      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33883/publication/ddi_survey/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Effectively identifying compound-protein interaction using graph neural representation</title>
-      <link>http://localhost:33883/publication/graphcpi/</link>
-      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33883/publication/graphcpi/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction</title>
-      <link>http://localhost:33883/publication/kgnn/</link>
+      <link>https://jacklingroup.github.io/publication/kgnn/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33883/publication/kgnn/</guid>
+      <guid>https://jacklingroup.github.io/publication/kgnn/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

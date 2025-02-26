@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | BioAI课题组</title>
-    <link>http://localhost:33883/categories/</link>
-      <atom:link href="http://localhost:33883/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacklingroup.github.io/categories/</link>
+      <atom:link href="https://jacklingroup.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>http://localhost:33883/media/icon_hu11734318148517933569.png</url>
+      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
       <title>Categories</title>
-      <link>http://localhost:33883/categories/</link>
+      <link>https://jacklingroup.github.io/categories/</link>
     </image>
     
   </channel>

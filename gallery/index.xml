@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery | BioAI课题组</title>
+    <link>https://jacklingroup.github.io/gallery/</link>
+      <atom:link href="https://jacklingroup.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gallery</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 28 Sep 2024 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
+      <title>Gallery</title>
+      <link>https://jacklingroup.github.io/gallery/</link>
+    </image>
+    
+    <item>
+      <title>湘潭华银生态园团建</title>
+      <link>https://jacklingroup.github.io/gallery/2024.01/</link>
+      <pubDate>Sat, 28 Sep 2024 13:00:00 +0000</pubDate>
+      <guid>https://jacklingroup.github.io/gallery/2024.01/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;2024年9月28日，湘潭艳阳高照，风景如画，我们BioAI课题组的同学，在林老师的组织带领下，相聚来到华银生态园观景，园内有林荫小道，亭台楼阁等秀美景观，适合休闲娱乐和红色文化教育，园内还设有散步道，自行车道和游乐设施，可以让远离乡村郊野的游客，亲近自然，放松心情，同学们在园区内玩得尽兴开心，真是乐而忘返！&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

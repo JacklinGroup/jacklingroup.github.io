@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yan Zhang | BioAI课题组</title>
-    <link>http://localhost:33883/author/yan-zhang/</link>
-      <atom:link href="http://localhost:33883/author/yan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacklingroup.github.io/author/yan-zhang/</link>
+      <atom:link href="https://jacklingroup.github.io/author/yan-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yan Zhang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:33883/media/icon_hu11734318148517933569.png</url>
+      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
       <title>Yan Zhang</title>
-      <link>http://localhost:33883/author/yan-zhang/</link>
+      <link>https://jacklingroup.github.io/author/yan-zhang/</link>
     </image>
     
     <item>
       <title>CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction</title>
-      <link>http://localhost:33883/publication/ctf-ddi/</link>
+      <link>https://jacklingroup.github.io/publication/ctf-ddi/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33883/publication/ctf-ddi/</guid>
+      <guid>https://jacklingroup.github.io/publication/ctf-ddi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

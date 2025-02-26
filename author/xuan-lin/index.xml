@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xuan Lin | BioAI课题组</title>
-    <link>http://localhost:1313/author/xuan-lin/</link>
-      <atom:link href="http://localhost:1313/author/xuan-lin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacklingroup.github.io/author/xuan-lin/</link>
+      <atom:link href="https://jacklingroup.github.io/author/xuan-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuan Lin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 24 Dec 2024 01:48:07 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/xuan-lin/avatar_hu17143120709406117201.jpg</url>
+      <url>https://jacklingroup.github.io/author/xuan-lin/avatar_hu17143120709406117201.jpg</url>
       <title>Xuan Lin</title>
-      <link>http://localhost:1313/author/xuan-lin/</link>
+      <link>https://jacklingroup.github.io/author/xuan-lin/</link>
     </image>
     
     <item>
       <title>Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</title>
-      <link>http://localhost:1313/publication/peit/</link>
+      <link>https://jacklingroup.github.io/publication/peit/</link>
       <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
-      <guid>http://localhost:1313/publication/peit/</guid>
+      <guid>https://jacklingroup.github.io/publication/peit/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>湘潭华银生态园团建</title>
-      <link>http://localhost:1313/event/2024.01/</link>
+      <link>https://jacklingroup.github.io/gallery/2024.01/</link>
       <pubDate>Sat, 28 Sep 2024 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024.01/</guid>
+      <guid>https://jacklingroup.github.io/gallery/2024.01/</guid>
       <description>&lt;!-- Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
@@ -51,14 +51,15 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
 Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;2024年9月28日，湘潭艳阳高照，风景如画，我们BioAI课题组的同学，在林老师的组织带领下，相聚来到华银生态园观景，园内有林荫小道，亭台楼阁等秀美景观，适合休闲娱乐和红色文化教育，园内还设有散步道，自行车道和游乐设施，可以让远离乡村郊野的游客，亲近自然，放松心情，同学们在园区内玩得尽兴开心，真是乐而忘返！&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction</title>
-      <link>http://localhost:1313/publication/ctf-ddi/</link>
+      <link>https://jacklingroup.github.io/publication/ctf-ddi/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ctf-ddi/</guid>
+      <guid>https://jacklingroup.github.io/publication/ctf-ddi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -83,9 +84,63 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Interpretable multi-view attention network for drug-drug interaction prediction</title>
-      <link>http://localhost:1313/publication/mva-ddi/</link>
+      <link>https://jacklingroup.github.io/publication/mva-ddi/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mva-ddi/</guid>
+      <guid>https://jacklingroup.github.io/publication/mva-ddi/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive evaluation of deep and graph learning on drug--drug interactions prediction</title>
+      <link>https://jacklingroup.github.io/publication/ddi_survey/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://jacklingroup.github.io/publication/ddi_survey/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effectively identifying compound-protein interaction using graph neural representation</title>
+      <link>https://jacklingroup.github.io/publication/graphcpi/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://jacklingroup.github.io/publication/graphcpi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -110,9 +165,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Kg-mtl: knowledge graph enhanced multi-task learning for molecular interaction</title>
-      <link>http://localhost:1313/publication/kg-mtl/</link>
+      <link>https://jacklingroup.github.io/publication/kg-mtl/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kg-mtl/</guid>
+      <guid>https://jacklingroup.github.io/publication/kg-mtl/</guid>
       <description>&lt;!-- 
 
 
@@ -138,9 +193,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Deep learning for drug repurposing: Methods, databases, and applications</title>
-      <link>http://localhost:1313/publication/drug_survey/</link>
+      <link>https://jacklingroup.github.io/publication/drug_survey/</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/drug_survey/</guid>
+      <guid>https://jacklingroup.github.io/publication/drug_survey/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
