@@ -5,12 +5,28 @@
     <link>https://jacklingroup.github.io/author/xi-zhang/</link>
       <atom:link href="https://jacklingroup.github.io/author/xi-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xi Zhang</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jacklingroup.github.io/author/xi-zhang/avatar_hu12398430569210942438.jpg</url>
       <title>Xi Zhang</title>
       <link>https://jacklingroup.github.io/author/xi-zhang/</link>
     </image>
+    
+    <item>
+      <title>[BIBM2024]CSCL-DTI: predicting drug-target interaction through cross-view and self-supervised contrastive learning</title>
+      <link>https://jacklingroup.github.io/news/2024.10/</link>
+      <pubDate>Mon, 28 Oct 2024 13:00:00 +0000</pubDate>
+      <guid>https://jacklingroup.github.io/news/2024.10/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;Congratulations to Xi Zhang for publishing this work. Best wishes to her for an even brighter future.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
