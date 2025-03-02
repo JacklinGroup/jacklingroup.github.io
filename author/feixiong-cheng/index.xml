@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feixiong Cheng | BioAI课题组</title>
-    <link>https://jacklingroup.github.io/author/feixiong-cheng/</link>
-      <atom:link href="https://jacklingroup.github.io/author/feixiong-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/feixiong-cheng/</link>
+      <atom:link href="http://localhost:1313/author/feixiong-cheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Feixiong Cheng</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
+      <url>http://localhost:1313/media/icon_hu3451340100773064862.png</url>
       <title>Feixiong Cheng</title>
-      <link>https://jacklingroup.github.io/author/feixiong-cheng/</link>
+      <link>http://localhost:1313/author/feixiong-cheng/</link>
     </image>
     
     <item>
       <title>Deep learning for drug repurposing: Methods, databases, and applications</title>
-      <link>https://jacklingroup.github.io/publication/drug_survey/</link>
+      <link>http://localhost:1313/publication/drug_survey/</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/publication/drug_survey/</guid>
+      <guid>http://localhost:1313/publication/drug_survey/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

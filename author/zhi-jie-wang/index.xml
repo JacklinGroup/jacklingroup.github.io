@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhi-Jie Wang | BioAI课题组</title>
-    <link>https://jacklingroup.github.io/author/zhi-jie-wang/</link>
-      <atom:link href="https://jacklingroup.github.io/author/zhi-jie-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/zhi-jie-wang/</link>
+      <atom:link href="http://localhost:1313/author/zhi-jie-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhi-Jie Wang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
+      <url>http://localhost:1313/media/icon_hu3451340100773064862.png</url>
       <title>Zhi-Jie Wang</title>
-      <link>https://jacklingroup.github.io/author/zhi-jie-wang/</link>
+      <link>http://localhost:1313/author/zhi-jie-wang/</link>
     </image>
     
     <item>
       <title>Effectively identifying compound-protein interaction using graph neural representation</title>
-      <link>https://jacklingroup.github.io/publication/graphcpi/</link>
+      <link>http://localhost:1313/publication/graphcpi/</link>
       <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/publication/graphcpi/</guid>
+      <guid>http://localhost:1313/publication/graphcpi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

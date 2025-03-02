@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yang Sijie | BioAI课题组</title>
-    <link>https://jacklingroup.github.io/author/yang-sijie/</link>
-      <atom:link href="https://jacklingroup.github.io/author/yang-sijie/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yang-sijie/</link>
+      <atom:link href="http://localhost:1313/author/yang-sijie/index.xml" rel="self" type="application/rss+xml" />
     <description>Yang Sijie</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
+      <url>http://localhost:1313/media/icon_hu3451340100773064862.png</url>
       <title>Yang Sijie</title>
-      <link>https://jacklingroup.github.io/author/yang-sijie/</link>
+      <link>http://localhost:1313/author/yang-sijie/</link>
     </image>
     
   </channel>

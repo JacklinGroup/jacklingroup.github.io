@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tengfei Ma | BioAI课题组</title>
-    <link>https://jacklingroup.github.io/author/tengfei-ma/</link>
-      <atom:link href="https://jacklingroup.github.io/author/tengfei-ma/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/tengfei-ma/</link>
+      <atom:link href="http://localhost:1313/author/tengfei-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Tengfei Ma</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
+      <url>http://localhost:1313/media/icon_hu3451340100773064862.png</url>
       <title>Tengfei Ma</title>
-      <link>https://jacklingroup.github.io/author/tengfei-ma/</link>
+      <link>http://localhost:1313/author/tengfei-ma/</link>
     </image>
     
     <item>
       <title>Kg-mtl: knowledge graph enhanced multi-task learning for molecular interaction</title>
-      <link>https://jacklingroup.github.io/publication/kg-mtl/</link>
+      <link>http://localhost:1313/publication/kg-mtl/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/publication/kg-mtl/</guid>
+      <guid>http://localhost:1313/publication/kg-mtl/</guid>
       <description>&lt;!-- 
 
 
