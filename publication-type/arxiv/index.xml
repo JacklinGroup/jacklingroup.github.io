@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arxiv | BioAI课题组</title>
-    <link>http://localhost:1313/publication-type/arxiv/</link>
-      <atom:link href="http://localhost:1313/publication-type/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacklingroup.github.io/publication-type/arxiv/</link>
+      <atom:link href="https://jacklingroup.github.io/publication-type/arxiv/index.xml" rel="self" type="application/rss+xml" />
     <description>Arxiv</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2024 01:48:07 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu3451340100773064862.png</url>
+      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
       <title>Arxiv</title>
-      <link>http://localhost:1313/publication-type/arxiv/</link>
+      <link>https://jacklingroup.github.io/publication-type/arxiv/</link>
     </image>
     
     <item>
       <title>Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</title>
-      <link>http://localhost:1313/publication/peit/</link>
+      <link>https://jacklingroup.github.io/publication/peit/</link>
       <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
-      <guid>http://localhost:1313/publication/peit/</guid>
+      <guid>https://jacklingroup.github.io/publication/peit/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

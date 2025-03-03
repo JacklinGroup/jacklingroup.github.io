@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference | BioAI课题组</title>
-    <link>http://localhost:1313/publication-type/conference/</link>
-      <atom:link href="http://localhost:1313/publication-type/conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacklingroup.github.io/publication-type/conference/</link>
+      <atom:link href="https://jacklingroup.github.io/publication-type/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu3451340100773064862.png</url>
+      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
       <title>Conference</title>
-      <link>http://localhost:1313/publication-type/conference/</link>
+      <link>https://jacklingroup.github.io/publication-type/conference/</link>
     </image>
     
     <item>
       <title>Interpretable multi-view attention network for drug-drug interaction prediction</title>
-      <link>http://localhost:1313/publication/mva-ddi/</link>
+      <link>https://jacklingroup.github.io/publication/mva-ddi/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mva-ddi/</guid>
+      <guid>https://jacklingroup.github.io/publication/mva-ddi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction</title>
-      <link>http://localhost:1313/publication/kgnn/</link>
+      <link>https://jacklingroup.github.io/publication/kgnn/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kgnn/</guid>
+      <guid>https://jacklingroup.github.io/publication/kgnn/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

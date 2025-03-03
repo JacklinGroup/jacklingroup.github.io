@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | BioAI课题组</title>
-    <link>http://localhost:1313/authors/</link>
-      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacklingroup.github.io/authors/</link>
+      <atom:link href="https://jacklingroup.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2024 01:48:07 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu3451340100773064862.png</url>
+      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
       <title>Authors</title>
-      <link>http://localhost:1313/authors/</link>
+      <link>https://jacklingroup.github.io/authors/</link>
     </image>
     
   </channel>
