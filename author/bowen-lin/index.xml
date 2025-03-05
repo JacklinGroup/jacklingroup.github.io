@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bowen Lin | BioAI课题组</title>
+    <link>https://jacklingroup.github.io/author/bowen-lin/</link>
+      <atom:link href="https://jacklingroup.github.io/author/bowen-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bowen Lin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jacklingroup.github.io/author/bowen-lin/avatar_hu6279173809622073817.jpg</url>
+      <title>Bowen Lin</title>
+      <link>https://jacklingroup.github.io/author/bowen-lin/</link>
+    </image>
+    
+  </channel>
+</rss>

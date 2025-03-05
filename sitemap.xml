@@ -253,7 +253,19 @@
     <loc>https://jacklingroup.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://jacklingroup.github.io/author/le-xu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/aocheng-ding/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/bowen-lin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jacklingroup.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/dan-luo/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jacklingroup.github.io/author/jingyu-sheng/</loc>
@@ -268,6 +280,9 @@
     <loc>https://jacklingroup.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://jacklingroup.github.io/author/wei-zhao/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jacklingroup.github.io/author/yang-sijie/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -275,6 +290,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jacklingroup.github.io/author/yue-li/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/yurun-tang/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
