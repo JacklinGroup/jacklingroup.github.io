@@ -253,9 +253,6 @@
     <loc>https://jacklingroup.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jacklingroup.github.io/author/le-xu/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://jacklingroup.github.io/author/aocheng-ding/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -274,16 +271,19 @@
     <loc>https://jacklingroup.github.io/author/jinyu-zhou/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://jacklingroup.github.io/author/le-xu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jacklingroup.github.io/author/qingrui-liu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/sijie-yang/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jacklingroup.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jacklingroup.github.io/author/wei-zhao/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jacklingroup.github.io/author/yang-sijie/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jacklingroup.github.io/author/yang-sun/</loc>
