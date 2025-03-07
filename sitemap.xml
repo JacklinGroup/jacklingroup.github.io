@@ -2,19 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jacklingroup.github.io/link/competitions/xl/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/link/competitions/ld/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/link/writing/abstract/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/authors/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/categories/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/category/competitions/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/dan-luo/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/link/writing/introduction/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/jinyu-zhou/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/le-xu/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/long-chen/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/link/writing/method/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/link/writing/motivationexperiment/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/qingrui-liu/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jacklingroup.github.io/link/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://jacklingroup.github.io/category/writing/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/link/writing/writing_summary/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/xi-zhang/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/author/yang-sun/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/link/tools/pymol/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/category/tools/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jacklingroup.github.io/publication-type/arxiv/</loc>
-    <lastmod>2024-12-24T01:48:07+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jacklingroup.github.io/authors/</loc>
-    <lastmod>2024-12-24T01:48:07+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jacklingroup.github.io/author/long-chen/</loc>
     <lastmod>2024-12-24T01:48:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -259,9 +331,6 @@
     <loc>https://jacklingroup.github.io/author/bowen-lin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jacklingroup.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://jacklingroup.github.io/author/dan-luo/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -272,9 +341,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jacklingroup.github.io/author/le-xu/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jacklingroup.github.io/author/qingrui-liu/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jacklingroup.github.io/tags/</loc>
