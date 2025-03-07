@@ -63,4 +63,4 @@ user_groups:
   - Undergraduate Students
 ---        
 
-Dan Luo is an undergraduate student majoring in Cyberspace Security at Xiangtan University, Xiangtan, China, supervised by Xuan Lin. His research interests include molecular docking and drug-target binding affinity.
+Dan Luo is an undergraduate student majoring in Cyberspace Security at Xiangtan University, Xiangtan, China, supervised by Xuan Lin. His research interests include molecular docking and drug-target binding affinity. He has submitted the paper *DynamicDTA: drug-target binding affinity prediction using dynamics descriptors and graph representation*.
