@@ -44,7 +44,7 @@ publishDate: '2023-07-03T00:00:00Z'
 publication_types: ['journal']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: 'Briefings in Bioinformatics'
 publication_short: 
 
 abstract: Recent advances and achievements of artificial intelligence (AI) as well as deep and graph learning models have established their usefulness in biomedical applications, especially in drug–drug interactions (DDIs). DDIs refer to a change in the effect of one drug to the presence of another drug in the human body, which plays an essential role in drug discovery and clinical research. DDIs prediction through traditional clinical trials and experiments is an expensive and time-consuming process. To correctly apply the advanced AI and deep learning, the developer and user meet various challenges such as the availability and encoding of data resources, and the design of computational methods. This review summarizes chemical structure based, network based, natural language processing based and hybrid methods, providing an updated and accessible guide to the broad researchers and development community with different domain knowledge. We introduce widely used molecular representation and describe the theoretical frameworks of graph neural network models for representing molecular structures. We present the advantages and disadvantages of deep and graph learning methods by performing comparative experiments. We discuss the potential technical challenges and highlight future directions of deep and graph learning models for accelerating DDIs prediction.

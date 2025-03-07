@@ -29,7 +29,7 @@ publishDate: '11 Aug 2022'
 publication_types: ['journal']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: 'IEEE Transactions On Computational Biology And Bioinformatics'
 publication_short: 
 
 abstract: Effectively identifying compound-protein interactions (CPIs) is crucial for new drug design, which is an important step in silico drug discovery. Current machine learning methods for CPI prediction mainly use one-demensional (1D) compound/protein strings and/or the specific descriptors. However, they often ignore the fact that molecules are essentially modeled by the molecular graph. We observe that in real-world scenarios, the topological structure information of the molecular graph usually provides an overview of how the atoms are connected, and the local chemical context reveals the functionality of the protein sequence in CPI. These two types of information are complementary to each other and they are both significant for modeling compound-protein pairs. Motivated by this, we propose an end-to-end deep learning framework named GraphCPI , which captures the structural information of compounds and leverages the chemical context of protein sequences for solving the CPI prediction task. Our framework can integrate any popular graph neural networks for learning compounds, and it combines with a convolutional neural network for embedding sequences. To compare our method with classic and state-of-the-art deep learning methods, we conduct extensive experiments based on several widely-used CPI datasets. The experimental results show the feasibility and competitiveness of our proposed method.

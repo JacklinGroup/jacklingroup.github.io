@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yang Sijie
+title: Sijie Yang
 
 # Full Name (for SEO)
 first_name: Yang

@@ -67,9 +67,17 @@
     </div>
 
     {{ if $has_attachments }}
-    <!-- <div class="btn-links">
+    <div class="btn-links">
+      <span style="font-size: medium; font-weight: bold;">
+        {{ if $item.Params.publication_short }}
+          {{- $item.Params.publication_short | markdownify -}} 
+        {{ else if $item.Params.publication }}
+          {{- $item.Params.publication | markdownify -}} 
+        {{ end }}
+      </span>
+      
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
-    </div> -->
+    </div>
     {{ end }}
 
   </div>

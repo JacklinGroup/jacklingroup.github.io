@@ -26,4 +26,41 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+
+  - block: markdown
+    content:
+      title: ✈️ Undergraduate Graduation Destinations
+      text: |
+        <div style="width: 70%; margin: 0 auto; text-align: center; font-family: '-apple-system'; background: transparent; padding: 10px;">
+          <ul style="list-style-type: decimal; padding: 0; display: inline-block; text-align: left; background: rgba(255, 255, 255, 0);">
+            <li style="margin: 12px 0; font-size: 24px;">
+              <span style="font-size: 20px;">🎓</span> 
+              19级本科生<strong><em> 温琦 </em></strong>保研至<strong><em> 华东师范大学 </em></strong>
+            </li>
+            <li style="margin: 12px 0; font-size: 24px;">
+              <span style="font-size: 20px;">🎓</span> 
+              19级本科生<strong><em> 马薇娜 </em></strong>保研至<strong><em> 中国科学院信息工程研究所 </em></strong>
+            </li>
+            <li style="margin: 12px 0; font-size: 24px;">
+              <span style="font-size: 20px;">🎓</span> 
+              20级本科生<strong><em> 戴立昌 </em></strong>保研至<strong><em> 山东大学 </em></strong>
+            </li>
+            <li style="margin: 12px 0; font-size: 24px;">
+              <span style="font-size: 20px;">🎓</span> 
+              20级本科生<strong><em> 杨斯杰 </em></strong>保研至<strong><em> 湖南大学 </em></strong>
+            </li>
+            <li style="margin: 12px 0; font-size: 24px;">
+              <span style="font-size: 20px;">🎓</span> 
+              20级本科生<strong><em> 李越 </em></strong>保研至<strong><em> 深圳大学 </em></strong>
+            </li>
+            <li style="margin: 12px 0; font-size: 24px;">
+              <span style="font-size: 20px;">🎓</span> 
+              21级本科生<strong><em> 丁奥丞 </em></strong>保研至<strong><em> 厦门大学 </em></strong>
+            </li>
+          </ul>
+        </div>
+
+
+
+
 ---

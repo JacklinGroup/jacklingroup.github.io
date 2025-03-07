@@ -28,8 +28,8 @@ publishDate: '01 Jul 2020'
 publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: 
+publication: 'International Joint Conference on Artificial Intelligence 2020'
+publication_short: 'IJCAI 2020'
 
 abstract: Drug-drug interaction (DDI) prediction is a challenging problem in pharmacology and clinical application, and effectively identifying potential DDIs during clinical trials is critical for patients and society. Most of existing computational models with AI techniques often concentrate on integrating multiple data sources and combining popular embedding methods together. Yet, researchers pay less attention to the potential correlations between drug and other entities such as targets and genes. Moreover, recent studies also adopted knowledge graph (KG) for DDI prediction. Yet, this line of methods learn node latent embedding directly, but they are limited in obtaining the rich neighborhood information of each entity in KG. To address the above limitations, we propose an end-to-end framework, called Knowledge Graph Neural Network (KGNN), to resolve the DDI prediction. Our framework can effectively capture drug and its potential neighborhoods by mining their associated relations in KG. To extract both high-order structures andsemantic relations of the KG, we learn from the neighborhoods for each entity in KG as their local receptive, and then integrate neighborhood information with bias from representation of the current entity. This way, the receptive field can be naturally extended to multiple hops away to model highorder topological information and to obtain drugs potential long-distance correlations. We haveimplemented our method and conducted experiments based on several widely-used datasets. Empirical results show that KGNN outperforms the classic and state-of-the-art models.
 
