@@ -5,12 +5,35 @@
     <link>https://jacklingroup.github.io/author/dan-luo/</link>
       <atom:link href="https://jacklingroup.github.io/author/dan-luo/index.xml" rel="self" type="application/rss+xml" />
     <description>Dan Luo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jacklingroup.github.io/author/dan-luo/avatar_hu16506071706777965916.jpg</url>
       <title>Dan Luo</title>
       <link>https://jacklingroup.github.io/author/dan-luo/</link>
     </image>
+    
+    <item>
+      <title>2024计算机设计大赛-罗丹组</title>
+      <link>https://jacklingroup.github.io/link/competitions/ld/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jacklingroup.github.io/link/competitions/ld/</guid>
+      <description>&lt;p&gt;蛋白质口袋指蛋白质表面或内部的一种空腔结构，它可以与其他分子发生特异性的相互作用，在蛋白质功能预测、药物靶标筛选以及药物设计中具有至关重要的作用。蛋白质结构的波动性常常导致隐式口袋的形成，这些隐式口袋在实验确定的结构中并不明显，因此很难被发现。准确而快速地预测隐式口袋是否能从结构中形成，以及它们可能在哪里形成，将大大加快对可用药的口袋的搜索以及药物设计的研究进程。&lt;/p&gt;
+&lt;p&gt;本作品致力于开发蛋白质隐式口袋预测平台，通过使用目前最先进的口袋预测模型—PocketMiner，在Web平台提供便捷高效，简单易上手的服务，包括蛋白质相关信息检索、隐式口袋预测、多种3D可视化模型以及结果的多元分析，达到降低识别隐式口袋成本、提高口袋预测准确性以及加快药物设计进程的目的。&lt;/p&gt;
+&lt;p&gt;如果有需要相关资料,可联系: &lt;a href=&#34;mailto:shmily-ld@foxmail.com&#34;&gt;shmily-ld@foxmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyMOL使用教程</title>
+      <link>https://jacklingroup.github.io/link/tools/pymol/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jacklingroup.github.io/link/tools/pymol/</guid>
+      <description>&lt;p&gt;PyMOL是一款功能强大的分子可视化工具，广泛应用于生物信息学、化学和药物设计领域。它能够处理复杂的分子结构数据，并以高度定制化的方式进行三维可视化。用户可以使用PyMOL加载各种分子结构文件（如PDB、SDF等），并对其进行旋转、缩放、着色等操作，从而清晰展示分子的三维构型。&lt;/p&gt;
+&lt;p&gt;PyMOL不仅提供丰富的图形界面，也支持命令行操作，能够自动化处理大规模的分子结构数据。它还具有强大的图形渲染能力，能够生成高质量的图片和动画，广泛用于科研论文和会议展示中。&lt;/p&gt;
+&lt;p&gt;此外，PyMOL支持插件扩展，能够与其他生物信息学工具或软件配合使用，为科研人员提供更加灵活和高效的工作环境。在本教程中，我们将介绍PyMOL的基本操作，包括文件加载、分子可视化、配体对接分析等常见功能。&lt;/p&gt;
+&lt;p&gt;教程的PDF文件在此处下载：&lt;a href=&#34;https://github.com/shmily-ld/PyMOL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyMOL教程PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
