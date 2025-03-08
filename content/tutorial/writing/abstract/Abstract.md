@@ -6,7 +6,8 @@ authors:
 
 date: '2025-03-01T00:00:00Z'
 
-categories: [Writing]
+categories: ['Writing']
+publication_types: ["writing"]
 
 summary: 作为刚刚完成论文投稿的研究生，在论文撰写中，我的摘要是与各位老师讨论、修改次数最多的部分，通过系统学习和反复实践，我对摘要撰写形成了以下三点核心认知：
 

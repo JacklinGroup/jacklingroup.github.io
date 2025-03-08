@@ -7,6 +7,7 @@ authors:
 date: '2025-03-01T00:00:00Z'
 
 categories: [Writing]
+publication_types: ["writing"]
 
 summary: 本文探讨了Motivation与Experiment部分的写作原则，强调明确的动机和全面的实验设计对于论文成功的重要性。
 

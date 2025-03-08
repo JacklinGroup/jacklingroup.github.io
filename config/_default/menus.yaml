@@ -29,7 +29,7 @@ main:
     url: news
     weight: 70
   - name: Tutorial
-    url: link
+    url: tutorial
     weight: 80
   - name: Contact
     url: contact

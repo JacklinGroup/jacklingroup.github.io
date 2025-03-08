@@ -3,7 +3,8 @@ title: PyMOL使用教程
 authors:
   - Dan Luo
 date: '2025-01-01T00:00:00Z'
-categories: [Tools]
+categories: ['Tools']
+publication_types: ["tools"]
 ---
 
 

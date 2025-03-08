@@ -7,6 +7,7 @@ authors:
 date: '2025-03-01T00:00:00Z'
 
 categories: [Writing]
+publication_types: ["writing"]
 
 summary: 大体来说，引言要回答三个问题：1) 为什么这个研究方向重要？2) 当前在这个领域有什么挑战或空白？3) 你的研究具体要解决什么问题？
 
@@ -22,7 +23,7 @@ summary: 大体来说，引言要回答三个问题：1) 为什么这个研究�
 
 *(3) 你的研究具体要解决什么问题？*
 
-![img](/assets/17310506722Ot.png)
+![img](../17310506722Ot.png)
 
 ### 2. **Introduction框架详解**
 
