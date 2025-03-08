@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools | BioAI课题组</title>
+    <link>https://jacklingroup.github.io/publication-type/tools/</link>
+      <atom:link href="https://jacklingroup.github.io/publication-type/tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tools</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
+      <title>Tools</title>
+      <link>https://jacklingroup.github.io/publication-type/tools/</link>
+    </image>
+    
+    <item>
+      <title>PyMOL使用教程</title>
+      <link>https://jacklingroup.github.io/tutorial/tools/pymol/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jacklingroup.github.io/tutorial/tools/pymol/</guid>
+      <description>&lt;p&gt;PyMOL是一款功能强大的分子可视化工具，广泛应用于生物信息学、化学和药物设计领域。它能够处理复杂的分子结构数据，并以高度定制化的方式进行三维可视化。用户可以使用PyMOL加载各种分子结构文件（如PDB、SDF等），并对其进行旋转、缩放、着色等操作，从而清晰展示分子的三维构型。&lt;/p&gt;
+&lt;p&gt;PyMOL不仅提供丰富的图形界面，也支持命令行操作，能够自动化处理大规模的分子结构数据。它还具有强大的图形渲染能力，能够生成高质量的图片和动画，广泛用于科研论文和会议展示中。&lt;/p&gt;
+&lt;p&gt;此外，PyMOL支持插件扩展，能够与其他生物信息学工具或软件配合使用，为科研人员提供更加灵活和高效的工作环境。在本教程中，我们将介绍PyMOL的基本操作，包括文件加载、分子可视化、配体对接分析等常见功能。&lt;/p&gt;
+&lt;p&gt;教程的PDF文件在此处下载：&lt;a href=&#34;https://github.com/shmily-ld/PyMOL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyMOL教程PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

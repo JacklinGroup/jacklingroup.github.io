@@ -14,9 +14,9 @@
     
     <item>
       <title>2024计算机设计大赛-徐乐组</title>
-      <link>https://jacklingroup.github.io/link/competitions/xl/</link>
+      <link>https://jacklingroup.github.io/tutorial/competitions/xl/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/competitions/xl/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/competitions/xl/</guid>
       <description>&lt;p&gt;人工智能辅助药物设计（Artificial Intelligence-Driven Drug Design，AIDD）是当今药物研发领域的一个重要趋势，它运用人工智能的技术，特别是深度学习，来加速药物的发现和优化过程。传统药物设计是一项漫长且复杂的工作流程，存在周期长、费用高、效率低的问题。塔夫茨药物开发研究中心的数据表明，开发一种药物的平均成本为26亿美元，将一种新疗法推向市场的平均时间为12年。应用人工智能技术可有效缩短研发时间，节约研发费用，提高研发效率。 国家也在积极推动云计算、大数据、人工智能等信息技术的发展以缩短新药研发时间、降低研发成本，促进医疗产业的发展，提升医疗水平。&lt;/p&gt;
 &lt;p&gt;为响应国家号召，为更多人群提供便利的新药物分子发现平台，本项目开发了Pocket3DGen——基于蛋白口袋感知的3D分子生成和优化平台。平台对蛋白口袋进行建模得到相应的结构和拓扑信息，通过自回归-等变网络进行3D分子的生成，并对生成的分子进行类药性优化和有效矫正，达到降低药物研发的成本、缩短药物研发周期的目的。一方面，本平台为生物领域研究人员提供了一个依托大数据和蛋白口袋感知的新药分子生成和优化平台。另一方面，本平台可以作为相关专业学生的教学工具，通过平台的3D可视化，更好掌握蛋白口袋和配体分子的结合程度，促进学生理论水平和实验技能的提升。除此之外，本平台易操作、直观，对非专业人士友善度好，为他们提供了一个学习和探索的机会，培养潜在的科学家和研究人员。&lt;/p&gt;
 &lt;p&gt;如果有需要相关资料,可联系: &lt;a href=&#34;mailto:xule817@gamil.com&#34;&gt;xule817@gamil.com&lt;/a&gt;&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>2024计算机设计大赛-罗丹组</title>
-      <link>https://jacklingroup.github.io/link/competitions/ld/</link>
+      <link>https://jacklingroup.github.io/tutorial/competitions/ld/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/competitions/ld/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/competitions/ld/</guid>
       <description>&lt;p&gt;蛋白质口袋指蛋白质表面或内部的一种空腔结构，它可以与其他分子发生特异性的相互作用，在蛋白质功能预测、药物靶标筛选以及药物设计中具有至关重要的作用。蛋白质结构的波动性常常导致隐式口袋的形成，这些隐式口袋在实验确定的结构中并不明显，因此很难被发现。准确而快速地预测隐式口袋是否能从结构中形成，以及它们可能在哪里形成，将大大加快对可用药的口袋的搜索以及药物设计的研究进程。&lt;/p&gt;
 &lt;p&gt;本作品致力于开发蛋白质隐式口袋预测平台，通过使用目前最先进的口袋预测模型—PocketMiner，在Web平台提供便捷高效，简单易上手的服务，包括蛋白质相关信息检索、隐式口袋预测、多种3D可视化模型以及结果的多元分析，达到降低识别隐式口袋成本、提高口袋预测准确性以及加快药物设计进程的目的。&lt;/p&gt;
 &lt;p&gt;如果有需要相关资料,可联系: &lt;a href=&#34;mailto:shmily-ld@foxmail.com&#34;&gt;shmily-ld@foxmail.com&lt;/a&gt;&lt;/p&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>Abstract写作原则</title>
-      <link>https://jacklingroup.github.io/link/writing/abstract/</link>
+      <link>https://jacklingroup.github.io/tutorial/writing/abstract/abstract/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/writing/abstract/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/writing/abstract/abstract/</guid>
       <description>&lt;h3 id=&#34;1-摘要的作用与结构&#34;&gt;1. 摘要的作用与结构&lt;/h3&gt;
 &lt;p&gt;摘要本质是具有独立传播价值的微型论文，需同时满足&amp;quot;信息完整性&amp;quot;与&amp;quot;阅读独立性&amp;quot;要求。我采用信息性摘要结构，将300字左右的空间划分为五大要素：背景（15%）、目的（15%）、方法（25%）、结果（30%）、结论（15%）。每个要素采用&amp;quot;问题导向&amp;quot;叙述策略，例如在背景部分以&amp;quot;Although&amp;hellip;remains unclear&amp;quot;句式切入，在方法部分强调&amp;quot;We developed a novel&amp;hellip;&amp;ldquo;的创新点。&lt;/p&gt;
 &lt;h3 id=&#34;2-逆向写作的实践策略&#34;&gt;2. 逆向写作的实践策略&lt;/h3&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>Introduction写作原则</title>
-      <link>https://jacklingroup.github.io/link/writing/introduction/</link>
+      <link>https://jacklingroup.github.io/tutorial/writing/introduction/introduction/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/writing/introduction/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/writing/introduction/introduction/</guid>
       <description>&lt;h3 id=&#34;1-引言写作原则&#34;&gt;1. 引言写作原则&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;大体来说，引言要回答三个问题：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;(1) 为什么这个研究方向重要？&lt;/em&gt;&lt;/p&gt;
@@ -76,7 +76,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://jacklingroup.github.io/assets/17310506722Ot.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../17310506722Ot.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;2-introduction框架详解&#34;&gt;2. &lt;strong&gt;Introduction框架详解&lt;/strong&gt;&lt;/h3&gt;
@@ -94,9 +94,9 @@
     
     <item>
       <title>Method写作原则</title>
-      <link>https://jacklingroup.github.io/link/writing/method/</link>
+      <link>https://jacklingroup.github.io/tutorial/writing/method/method/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/writing/method/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/writing/method/method/</guid>
       <description>&lt;h3 id=&#34;1-逻辑清晰层次分明&#34;&gt;1. 逻辑清晰，层次分明&lt;/h3&gt;
 &lt;p&gt;首先会给出一张总图，描述整个研究的整体架构。然后，我按照模块划分Method部分，每个模块内部再细分子部分，如数据处理、模型设计、训练策略等。这样不仅便于读者逐步理解，也能避免冗长复杂的描述导致逻辑混乱。&lt;/p&gt;
 &lt;h3 id=&#34;2-适度使用图表与示例&#34;&gt;2. 适度使用图表与示例&lt;/h3&gt;
@@ -130,7 +130,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://jacklingroup.github.io/assets/20250303133018.png&#34; alt=&#34;paper&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../20250303133018.png&#34; alt=&#34;paper&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
@@ -138,9 +138,9 @@
     
     <item>
       <title>Motivation与Experiment写作原则</title>
-      <link>https://jacklingroup.github.io/link/writing/motivationexperiment/</link>
+      <link>https://jacklingroup.github.io/tutorial/writing/motivation/motivationexperiment/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/writing/motivationexperiment/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/writing/motivation/motivationexperiment/</guid>
       <description>&lt;h3 id=&#34;1-motivation&#34;&gt;1. Motivation&lt;/h3&gt;
 &lt;p&gt;建立可行且明确的motivation十分的必要，在投稿后的角度来看motivation决定了文章的上限以及被接收的可能性，一个有吸引力且明确的motivation
 不但会使你在论文写作的过程中更加顺利，而且利于吸引审稿人的眼球，简单的拼凑模块来以结果解释动机很可能不能自圆其说而且在论文投稿的过程中很
@@ -154,9 +154,9 @@
     
     <item>
       <title>Writing Summary</title>
-      <link>https://jacklingroup.github.io/link/writing/writing_summary/</link>
+      <link>https://jacklingroup.github.io/tutorial/writing/summary/writing_summary/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/writing/writing_summary/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/writing/summary/writing_summary/</guid>
       <description>&lt;p&gt;在研究初期，我投入了大量时间阅读近几年药物靶标相互作用预测研究相关的顶刊论文，试图找到与我研究方向相似的工作，以便借鉴其写作顺序和逻辑。这一过程虽然耗时，但却为我后续的研究和论文撰写奠定了坚实的基础。我特别关注了2022年发表在Bioinformatics上的IIFDTI模型，这篇论文不仅提供了丰富的理论知识，还展示了清晰的研究思路和严谨的实验设计。&lt;/p&gt;
 &lt;p&gt;在确定了研究方向后，我首先对IIFDTI进行了复现，并将其作为对比方法。这一过程中，我深刻体会到了复现他人工作的重要性，它不仅帮助我理解了前人的研究方法，还为我提供了宝贵的实验数据和经验。复现过程中遇到的困难和挑战，也让我更加坚定了要创新和改进的决心。&lt;/p&gt;
 &lt;p&gt;论文写作过程中，我首先绘制了论文的框架图，这成为了我写作的骨架。框架图不仅帮助我理清了研究的逻辑结构，还为我提供了一个清晰的写作指南。在撰写论文时，我围绕框架图展开，确保每一部分都紧密相连，逻辑清晰。&lt;/p&gt;
@@ -172,9 +172,9 @@
     
     <item>
       <title>PyMOL使用教程</title>
-      <link>https://jacklingroup.github.io/link/tools/pymol/</link>
+      <link>https://jacklingroup.github.io/tutorial/tools/pymol/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/tools/pymol/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/tools/pymol/</guid>
       <description>&lt;p&gt;PyMOL是一款功能强大的分子可视化工具，广泛应用于生物信息学、化学和药物设计领域。它能够处理复杂的分子结构数据，并以高度定制化的方式进行三维可视化。用户可以使用PyMOL加载各种分子结构文件（如PDB、SDF等），并对其进行旋转、缩放、着色等操作，从而清晰展示分子的三维构型。&lt;/p&gt;
 &lt;p&gt;PyMOL不仅提供丰富的图形界面，也支持命令行操作，能够自动化处理大规模的分子结构数据。它还具有强大的图形渲染能力，能够生成高质量的图片和动画，广泛用于科研论文和会议展示中。&lt;/p&gt;
 &lt;p&gt;此外，PyMOL支持插件扩展，能够与其他生物信息学工具或软件配合使用，为科研人员提供更加灵活和高效的工作环境。在本教程中，我们将介绍PyMOL的基本操作，包括文件加载、分子可视化、配体对接分析等常见功能。&lt;/p&gt;

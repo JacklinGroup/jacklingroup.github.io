@@ -14,9 +14,9 @@
     
     <item>
       <title>Abstract写作原则</title>
-      <link>https://jacklingroup.github.io/link/writing/abstract/</link>
+      <link>https://jacklingroup.github.io/tutorial/writing/abstract/abstract/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/writing/abstract/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/writing/abstract/abstract/</guid>
       <description>&lt;h3 id=&#34;1-摘要的作用与结构&#34;&gt;1. 摘要的作用与结构&lt;/h3&gt;
 &lt;p&gt;摘要本质是具有独立传播价值的微型论文，需同时满足&amp;quot;信息完整性&amp;quot;与&amp;quot;阅读独立性&amp;quot;要求。我采用信息性摘要结构，将300字左右的空间划分为五大要素：背景（15%）、目的（15%）、方法（25%）、结果（30%）、结论（15%）。每个要素采用&amp;quot;问题导向&amp;quot;叙述策略，例如在背景部分以&amp;quot;Although&amp;hellip;remains unclear&amp;quot;句式切入，在方法部分强调&amp;quot;We developed a novel&amp;hellip;&amp;ldquo;的创新点。&lt;/p&gt;
 &lt;h3 id=&#34;2-逆向写作的实践策略&#34;&gt;2. 逆向写作的实践策略&lt;/h3&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Introduction写作原则</title>
-      <link>https://jacklingroup.github.io/link/writing/introduction/</link>
+      <link>https://jacklingroup.github.io/tutorial/writing/introduction/introduction/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/writing/introduction/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/writing/introduction/introduction/</guid>
       <description>&lt;h3 id=&#34;1-引言写作原则&#34;&gt;1. 引言写作原则&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;大体来说，引言要回答三个问题：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;(1) 为什么这个研究方向重要？&lt;/em&gt;&lt;/p&gt;
@@ -54,7 +54,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://jacklingroup.github.io/assets/17310506722Ot.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../17310506722Ot.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;2-introduction框架详解&#34;&gt;2. &lt;strong&gt;Introduction框架详解&lt;/strong&gt;&lt;/h3&gt;
@@ -72,9 +72,9 @@
     
     <item>
       <title>Method写作原则</title>
-      <link>https://jacklingroup.github.io/link/writing/method/</link>
+      <link>https://jacklingroup.github.io/tutorial/writing/method/method/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/writing/method/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/writing/method/method/</guid>
       <description>&lt;h3 id=&#34;1-逻辑清晰层次分明&#34;&gt;1. 逻辑清晰，层次分明&lt;/h3&gt;
 &lt;p&gt;首先会给出一张总图，描述整个研究的整体架构。然后，我按照模块划分Method部分，每个模块内部再细分子部分，如数据处理、模型设计、训练策略等。这样不仅便于读者逐步理解，也能避免冗长复杂的描述导致逻辑混乱。&lt;/p&gt;
 &lt;h3 id=&#34;2-适度使用图表与示例&#34;&gt;2. 适度使用图表与示例&lt;/h3&gt;
@@ -108,7 +108,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://jacklingroup.github.io/assets/20250303133018.png&#34; alt=&#34;paper&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../20250303133018.png&#34; alt=&#34;paper&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
@@ -116,9 +116,9 @@
     
     <item>
       <title>Motivation与Experiment写作原则</title>
-      <link>https://jacklingroup.github.io/link/writing/motivationexperiment/</link>
+      <link>https://jacklingroup.github.io/tutorial/writing/motivation/motivationexperiment/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/writing/motivationexperiment/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/writing/motivation/motivationexperiment/</guid>
       <description>&lt;h3 id=&#34;1-motivation&#34;&gt;1. Motivation&lt;/h3&gt;
 &lt;p&gt;建立可行且明确的motivation十分的必要，在投稿后的角度来看motivation决定了文章的上限以及被接收的可能性，一个有吸引力且明确的motivation
 不但会使你在论文写作的过程中更加顺利，而且利于吸引审稿人的眼球，简单的拼凑模块来以结果解释动机很可能不能自圆其说而且在论文投稿的过程中很
@@ -132,9 +132,9 @@
     
     <item>
       <title>Writing Summary</title>
-      <link>https://jacklingroup.github.io/link/writing/writing_summary/</link>
+      <link>https://jacklingroup.github.io/tutorial/writing/summary/writing_summary/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/writing/writing_summary/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/writing/summary/writing_summary/</guid>
       <description>&lt;p&gt;在研究初期，我投入了大量时间阅读近几年药物靶标相互作用预测研究相关的顶刊论文，试图找到与我研究方向相似的工作，以便借鉴其写作顺序和逻辑。这一过程虽然耗时，但却为我后续的研究和论文撰写奠定了坚实的基础。我特别关注了2022年发表在Bioinformatics上的IIFDTI模型，这篇论文不仅提供了丰富的理论知识，还展示了清晰的研究思路和严谨的实验设计。&lt;/p&gt;
 &lt;p&gt;在确定了研究方向后，我首先对IIFDTI进行了复现，并将其作为对比方法。这一过程中，我深刻体会到了复现他人工作的重要性，它不仅帮助我理解了前人的研究方法，还为我提供了宝贵的实验数据和经验。复现过程中遇到的困难和挑战，也让我更加坚定了要创新和改进的决心。&lt;/p&gt;
 &lt;p&gt;论文写作过程中，我首先绘制了论文的框架图，这成为了我写作的骨架。框架图不仅帮助我理清了研究的逻辑结构，还为我提供了一个清晰的写作指南。在撰写论文时，我围绕框架图展开，确保每一部分都紧密相连，逻辑清晰。&lt;/p&gt;

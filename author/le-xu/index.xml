@@ -14,9 +14,9 @@
     
     <item>
       <title>2024计算机设计大赛-徐乐组</title>
-      <link>https://jacklingroup.github.io/link/competitions/xl/</link>
+      <link>https://jacklingroup.github.io/tutorial/competitions/xl/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/competitions/xl/</guid>
+      <guid>https://jacklingroup.github.io/tutorial/competitions/xl/</guid>
       <description>&lt;p&gt;人工智能辅助药物设计（Artificial Intelligence-Driven Drug Design，AIDD）是当今药物研发领域的一个重要趋势，它运用人工智能的技术，特别是深度学习，来加速药物的发现和优化过程。传统药物设计是一项漫长且复杂的工作流程，存在周期长、费用高、效率低的问题。塔夫茨药物开发研究中心的数据表明，开发一种药物的平均成本为26亿美元，将一种新疗法推向市场的平均时间为12年。应用人工智能技术可有效缩短研发时间，节约研发费用，提高研发效率。 国家也在积极推动云计算、大数据、人工智能等信息技术的发展以缩短新药研发时间、降低研发成本，促进医疗产业的发展，提升医疗水平。&lt;/p&gt;
 &lt;p&gt;为响应国家号召，为更多人群提供便利的新药物分子发现平台，本项目开发了Pocket3DGen——基于蛋白口袋感知的3D分子生成和优化平台。平台对蛋白口袋进行建模得到相应的结构和拓扑信息，通过自回归-等变网络进行3D分子的生成，并对生成的分子进行类药性优化和有效矫正，达到降低药物研发的成本、缩短药物研发周期的目的。一方面，本平台为生物领域研究人员提供了一个依托大数据和蛋白口袋感知的新药分子生成和优化平台。另一方面，本平台可以作为相关专业学生的教学工具，通过平台的3D可视化，更好掌握蛋白口袋和配体分子的结合程度，促进学生理论水平和实验技能的提升。除此之外，本平台易操作、直观，对非专业人士友善度好，为他们提供了一个学习和探索的机会，培养潜在的科学家和研究人员。&lt;/p&gt;
 &lt;p&gt;如果有需要相关资料,可联系: &lt;a href=&#34;mailto:xule817@gamil.com&#34;&gt;xule817@gamil.com&lt;/a&gt;&lt;/p&gt;

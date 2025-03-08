@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jacklingroup.github.io/link/competitions/xl/</loc>
+    <loc>https://jacklingroup.github.io/tutorial/competitions/xl/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jacklingroup.github.io/link/competitions/ld/</loc>
+    <loc>https://jacklingroup.github.io/tutorial/competitions/ld/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jacklingroup.github.io/link/writing/abstract/</loc>
+    <loc>https://jacklingroup.github.io/tutorial/writing/abstract/abstract/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -22,6 +22,10 @@
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://jacklingroup.github.io/publication-type/competitions/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jacklingroup.github.io/category/competitions/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,7 +34,7 @@
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jacklingroup.github.io/link/writing/introduction/</loc>
+    <loc>https://jacklingroup.github.io/tutorial/writing/introduction/introduction/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -46,11 +50,15 @@
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jacklingroup.github.io/link/writing/method/</loc>
+    <loc>https://jacklingroup.github.io/tutorial/writing/method/method/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jacklingroup.github.io/link/writing/motivationexperiment/</loc>
+    <loc>https://jacklingroup.github.io/tutorial/writing/motivation/motivationexperiment/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/publication_types/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -58,7 +66,11 @@
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jacklingroup.github.io/link/</loc>
+    <loc>https://jacklingroup.github.io/tutorial/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/publication-type/writing/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -66,7 +78,7 @@
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jacklingroup.github.io/link/writing/writing_summary/</loc>
+    <loc>https://jacklingroup.github.io/tutorial/writing/summary/writing_summary/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -78,7 +90,11 @@
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jacklingroup.github.io/link/tools/pymol/</loc>
+    <loc>https://jacklingroup.github.io/tutorial/tools/pymol/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jacklingroup.github.io/publication-type/tools/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -95,10 +111,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jacklingroup.github.io/publication/peit/</loc>
-    <lastmod>2024-12-24T01:48:07+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jacklingroup.github.io/publication_types/</loc>
     <lastmod>2024-12-24T01:48:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
