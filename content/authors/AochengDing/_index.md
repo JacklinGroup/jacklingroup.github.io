@@ -63,4 +63,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-Aocheng Ding is an undergraduate student majoring in Software engineering at Xiangtan University, Xiangtan, China, supervised by Xuan Lin. His research interests include graph neural networks and drug-drug interaction events.
+Aocheng Ding is an undergraduate student majoring in Software engineering at Xiangtan University, Xiangtan, China, supervised by Xuan Lin. His research interests include graph neural networks and drug-drug interaction events. He has published the paper *CTF-DDI: Constrained Tensor Factorization for Drug-Drug Interactions Prediction*.

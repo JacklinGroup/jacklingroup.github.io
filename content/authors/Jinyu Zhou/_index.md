@@ -63,4 +63,4 @@ user_groups:
   - Graduate Students
 ---
 
-Zhou jinyu is a graduate student majoring in computer science at Xiangtan University, Xiangtan, China, supervised by Xuan Lin. Her research interests include Graph Neural Networks and drug discovery, with a particular focus on protein-ligand interactions. She has submitted the paper *）：DualBind: Dual-Module Protein-ligand Binding Affinity Prediction with Adaptive GNN and Structure-Aware Transformer*
+Zhou jinyu is a graduate student majoring in computer science at Xiangtan University, Xiangtan, China, supervised by Xuan Lin. Her research interests include Graph Neural Networks and drug discovery, with a particular focus on protein-ligand interactions. She has submitted the paper *DualBind: Dual-Module Protein-ligand Binding Affinity Prediction with Adaptive GNN and Structure-Aware Transformer*.
