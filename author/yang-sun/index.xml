@@ -5,26 +5,12 @@
     <link>https://jacklingroup.github.io/author/yang-sun/</link>
       <atom:link href="https://jacklingroup.github.io/author/yang-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Yang Sun</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
+      <url>https://jacklingroup.github.io/author/yang-sun/avatar_hu13916202644494478079.jpg</url>
       <title>Yang Sun</title>
       <link>https://jacklingroup.github.io/author/yang-sun/</link>
     </image>
-    
-    <item>
-      <title>Abstract写作原则</title>
-      <link>https://jacklingroup.github.io/link/writing/abstract/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jacklingroup.github.io/link/writing/abstract/</guid>
-      <description>&lt;h3 id=&#34;1-摘要的作用与结构&#34;&gt;1. 摘要的作用与结构&lt;/h3&gt;
-&lt;p&gt;摘要本质是具有独立传播价值的微型论文，需同时满足&amp;quot;信息完整性&amp;quot;与&amp;quot;阅读独立性&amp;quot;要求。我采用信息性摘要结构，将300字左右的空间划分为五大要素：背景（15%）、目的（15%）、方法（25%）、结果（30%）、结论（15%）。每个要素采用&amp;quot;问题导向&amp;quot;叙述策略，例如在背景部分以&amp;quot;Although&amp;hellip;remains unclear&amp;quot;句式切入，在方法部分强调&amp;quot;We developed a novel&amp;hellip;&amp;ldquo;的创新点。&lt;/p&gt;
-&lt;h3 id=&#34;2-逆向写作的实践策略&#34;&gt;2. 逆向写作的实践策略&lt;/h3&gt;
-&lt;p&gt;在第一次写撰写论文时，我按照论文顺序先写了摘要部分，导致摘要与正文脱节。在撰写时，应遵循&amp;quot;最后撰写摘要&amp;quot;原则，在完成全文后采用四步提炼法：首先标注正文各章节的关键句（3-5句/章），继而构建逻辑链（背景→矛盾→方法→证据→结论），然后进行信息压缩（删除案例细节、重复论证），最终进行语言优化（替换被动语态、消除冗余副词）。&lt;/p&gt;
-&lt;h3 id=&#34;3-常见误区的规避&#34;&gt;3. 常见误区的规避&lt;/h3&gt;
-&lt;p&gt;通过摘要的反复修改，我总结出摘要撰写的四大禁忌： 1）避免结论性表述缺乏数据支撑（如&amp;quot;significantly improved&amp;quot;需补充相应值）； 2）克制方法细节过度展开（保留核心创新点即可）； 3）杜绝自引文献与专业术语堆砌； 4）警惕时态混用（背景用现在时，方法结果用过去时）。经验表明，优秀摘要的产出需要经历&amp;quot;框架搭建→要素填充→凝练优化&amp;quot;的迭代过程。建议新手研究者建立摘要自查清单，重点评估：是否覆盖研究闭环（从问题到结论）、是否突出创新贡献、是否具备独立传播价值这三个维度。通过系统训练，摘要写作能力可显著提升，最终成为论文的&amp;quot;学术名片&amp;rdquo;。&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
