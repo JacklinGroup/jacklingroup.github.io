@@ -20,17 +20,17 @@
       <description>&lt;p&gt;蛋白质口袋指蛋白质表面或内部的一种空腔结构，它可以与其他分子发生特异性的相互作用，在蛋白质功能预测、药物靶标筛选以及药物设计中具有至关重要的作用。蛋白质结构的波动性常常导致隐式口袋的形成，这些隐式口袋在实验确定的结构中并不明显，因此很难被发现。准确而快速地预测隐式口袋是否能从结构中形成，以及它们可能在哪里形成，将大大加快对可用药的口袋的搜索以及药物设计的研究进程。&lt;/p&gt;
 &lt;p&gt;本作品致力于开发蛋白质隐式口袋预测平台，通过使用目前最先进的口袋预测模型—PocketMiner，在Web平台提供便捷高效，简单易上手的服务，包括蛋白质相关信息检索、隐式口袋预测、多种3D可视化模型以及结果的多元分析，达到降低识别隐式口袋成本、提高口袋预测准确性以及加快药物设计进程的目的。&lt;/p&gt;
 &lt;h3 id=&#34;ppt首页&#34;&gt;PPT首页&lt;/h3&gt;
-&lt;div style=&#34;text-align: center;&#34;&gt;
-    &lt;img src=&#34;image/ld/PPT.png&#34; alt=&#34;模型框架图&#34; width=&#34;600&#34;&gt;
-&lt;/div&gt;
+&lt;p align=&#34;center&#34;&gt;
+    &lt;img src=&#34;image/ld/PPT.png&#34; alt=&#34;PPT首页&#34; width=&#34;800&#34;&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;系统框架&#34;&gt;系统框架&lt;/h3&gt;
-&lt;div style=&#34;text-align: center;&#34;&gt;
-    &lt;img src=&#34;image/ld/model.png&#34; alt=&#34;实验流程图&#34; width=&#34;600&#34;&gt;
-&lt;/div&gt;
+&lt;p align=&#34;center&#34;&gt;
+    &lt;img src=&#34;image/ld/model.png&#34; alt=&#34;系统框架&#34; width=&#34;800&#34;&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;预测页面&#34;&gt;预测页面&lt;/h3&gt;
-&lt;div style=&#34;text-align: center;&#34;&gt;
-    &lt;img src=&#34;image/ld/prediction.png&#34; alt=&#34;结果分析图&#34; width=&#34;600&#34;&gt;
-&lt;/div&gt;
+&lt;p align=&#34;center&#34;&gt;
+    &lt;img src=&#34;image/ld/prediction.png&#34; alt=&#34;预测页面&#34; width=&#34;800&#34;&gt;
+&lt;/p&gt;
 &lt;p&gt;如果有需要相关资料,可联系: &lt;a href=&#34;mailto:shmily-ld@foxmail.com&#34;&gt;shmily-ld@foxmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
