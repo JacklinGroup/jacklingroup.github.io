@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: March 8, 2025 --><html lang="en-us" >
+<!-- Last Published: March 23, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -319,7 +319,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="BioAI课题组" />
 <meta property="og:url" content="https://jacklingroup.github.io/tutorial/writing/method/method/" />
-<meta property="og:title" content="Method写作原则 | BioAI课题组" />
+<meta property="og:title" content="Method与Introduction写作体会 | BioAI课题组" />
 <meta property="og:description" content="本文探讨了Method部分的写作原则，包括逻辑清晰的结构设计、适度使用图表与示例、兼顾细节与整体的平衡。" /><meta property="og:image" content="https://jacklingroup.github.io/media/icon_hu3451340100773064862.png" /><meta property="og:locale" content="en-us" />
 
   
@@ -354,7 +354,7 @@
 
 
   
-  <title>Method写作原则 | BioAI课题组</title>
+  <title>Method与Introduction写作体会 | BioAI课题组</title>
 
   
   
@@ -745,7 +745,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Method写作原则</h1>
+  <h1>Method与Introduction写作体会</h1>
 
   
 
@@ -810,22 +810,24 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h3 id="1-逻辑清晰层次分明">1. 逻辑清晰，层次分明</h3>
+      <h2 id="一method写作原则">一、Method写作原则</h2>
+<h3 id="1-逻辑清晰层次分明">1. 逻辑清晰，层次分明</h3>
 <p>首先会给出一张总图，描述整个研究的整体架构。然后，我按照模块划分Method部分，每个模块内部再细分子部分，如数据处理、模型设计、训练策略等。这样不仅便于读者逐步理解，也能避免冗长复杂的描述导致逻辑混乱。</p>
 <h3 id="2-适度使用图表与示例">2. 适度使用图表与示例</h3>
 <p>对于复杂的算法和模型架构，结合示意图和具体示例能极大提升描述的直观性。例如，在描述ChemDual的指令数据集构建流程时，我通过一张图展示了数据预处理、模板填充和最终指令生成的全流程，使得原本抽象的文本处理步骤变得一目了然。</p>
 <h3 id="3-兼顾细节与整体">3. 兼顾细节与整体</h3>
 <p>Method部分既要详细描述关键技术细节，如具体的分词策略等，也要在每个模块结尾简要总结其核心功能和对整体研究的贡献。这样可以帮助读者在深入理解技术细节的同时，始终把握研究的整体逻辑。</p>
 <h3 id="4-论文举例">4. 论文举例</h3>
-<p><strong>4.1 第一个子部分：整体研究设计概述</strong><br>
-在撰写Method部分的开头，我通常会用几句话概述研究的整体架构，例如ChemDual模型的三大核心模块：数据集构建、多尺度分词器、对偶任务学习。这一部分的目标是让读者快速理解研究的总体逻辑，并为接下来的细节描述奠定基础。</p>
-<p><strong>4.2 第二个子部分：数据集构建与预处理</strong><br>
-这一部分类似于研究的基础设施搭建，我会详细描述数据收集、清理和处理的每个步骤。例如，在ChemDual中，我描述了如何从ChEMBL-34数据库收集2000万条SMILES序列，并通过去重、无效分子过滤、长度限制等步骤得到最终的220万分子库。写作时，我发现精准描述每个处理标准（如使用RDKit过滤无效分子）不仅增加了研究的可复现性，也能增强论文的说服力。</p>
-<p><strong>4.3 第三个子部分：多尺度分词器模块</strong><br>
-在ChemDual的多尺度分词器模块，我分层次介绍了分子片段、功能基团和特殊标记三种分词策略，并结合示意图解释了不同策略如何协同工作以捕捉分子多尺度信息。</p>
-<p><strong>4.4 第四个子部分：训练策略与损失函数</strong><br>
-训练策略的描述不仅要清晰解释模型的训练流程，还要突出关键创新点。在ChemDual的对偶任务学习模块，我分别描述了预训练阶段的碎片-重组任务和微调阶段的反应-逆合成任务，并通过数学公式定义了模型的优化目标和损失函数。明确区分前向任务和后向任务的关系，并用概率公式解释对偶任务的联合分布，有助于让读者深入理解模型的学习机制。</p>
-<p>
+<blockquote>
+<p><strong>4.1 第一个子部分：整体研究设计概述</strong>
+在撰写Method部分的开头，我通常会用几句话概述研究的整体架构，例如ChemDual模型的三大核心模块：数据集构建、多尺度分词器、对偶任务学习。这一部分的目标是让读者快速理解研究的总体逻辑，并为接下来的细节描述奠定基础。<br>
+<strong>4.2 第二个子部分：数据集构建与预处理</strong>
+这一部分类似于研究的基础设施搭建，我会详细描述数据收集、清理和处理的每个步骤。例如，在ChemDual中，我描述了如何从ChEMBL-34数据库收集2000万条SMILES序列，并通过去重、无效分子过滤、长度限制等步骤得到最终的220万分子库。写作时，我发现精准描述每个处理标准（如使用RDKit过滤无效分子）不仅增加了研究的可复现性，也能增强论文的说服力。<br>
+<strong>4.3 第三个子部分：多尺度分词器模块</strong>
+在ChemDual的多尺度分词器模块，我分层次介绍了分子片段、功能基团和特殊标记三种分词策略，并结合示意图解释了不同策略如何协同工作以捕捉分子多尺度信息。<br>
+<strong>4.4 第四个子部分：训练策略与损失函数</strong>
+训练策略的描述不仅要清晰解释模型的训练流程，还要突出关键创新点。在ChemDual的对偶任务学习模块，我分别描述了预训练阶段的碎片-重组任务和微调阶段的反应-逆合成任务，并通过数学公式定义了模型的优化目标和损失函数。明确区分前向任务和后向任务的关系，并用概率公式解释对偶任务的联合分布，有助于让读者深入理解模型的学习机制。
+
 
 
 
@@ -846,6 +848,84 @@
     <div class="w-100" ><img src="../20250303133018.png" alt="paper" loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
+</blockquote>
+<h2 id="二introduction立意分析">二、Introduction立意分析</h2>
+<p>第一版的Introduction问题：逻辑不够清晰，过渡生硬</p>
+<ol>
+<li>
+<p>直接提出方案，缺乏背景铺垫
+第一版在介绍数据集挑战时，没有先详细说明为什么化学合成实验数据昂贵、难以获取，而是较快地跳转到解决方案（BRICS 片段）。这样读者可能会对“为什么需要另一种方式来构建大规模数据集”缺乏充分理解，从而降低了对研究价值的认同。</p>
+</li>
+<li>
+<p>任务之间的关系未得到充分强调
+在讨论 reaction prediction 和 retrosynthesis 任务时，第一版只是分别描述了这两个任务的独立性，而没有强调它们之间的内在联系。这样导致研究动机不够清晰，双任务学习策略的引入显得较为突兀，缺乏自然的逻辑递进。</p>
+</li>
+<li>
+<p>数据支持不够充分
+第一版可能提到了 BRICS 方法的优势，但没有提供明确的数值或实验结果支持（如全局平均相似性 66.5%、Exact Match 提升 6.3%）。缺乏这些数据，读者可能会对方法的有效性存疑，导致说服力不足。</p>
+</li>
+</ol>
+<p>在修改后版本中，这部分过渡逻辑十分清晰，遵循了一个典型的 &ldquo;问题 → 影响 → 解决方案&rdquo; 的学术写作结构，使读者能够自然地理解研究的动机，并接受作者提出的改进方法。下面拆解其关键的逻辑递进过程，并分析为什么这样的组织方式更具说服力。</p>
+<h3 id="challenge-1-数据集规模问题">Challenge 1: 数据集规模问题</h3>
+<ol>
+<li>问题定义（Challenge 1）</li>
+</ol>
+<p>&ldquo;Lacking a large-scale chemical synthesis-related instruction dataset.&rdquo;<br>
+→ 研究背景： LLMs 的成功依赖于大规模、高质量的数据集，但化学合成相关的实验数据昂贵且难以获取。</p>
+<ol start="2">
+<li>问题的影响</li>
+</ol>
+<p>&ldquo;In predictions of reaction and retrosynthesis, high-quality data comes from actual chemical synthesis experiments in the laboratory, so it is costly and inefficient, resulting in limited data size.&rdquo;<br>
+→ 影响： 由于实验成本高，数据规模受限，导致化学反应预测和逆合成预测（reaction &amp; retrosynthesis）面临数据瓶颈。</p>
+<ol start="3">
+<li>研究动机</li>
+</ol>
+<p>&ldquo;Therefore, this motivates us to find an alternative with low acquisition cost (capable of quickly generating large-scale data) and high data quality (high relevance to real chemical synthesis).&rdquo;<br>
+→ 研究动机： 需要一种成本低、规模大、质量高的数据生成方法，以支持 LLM 在化学预测中的学习。</p>
+<ol start="4">
+<li>解决方案的引入</li>
+</ol>
+<p>&ldquo;As shown in the top of Figure 1(a), we find that fragments generated by breaking of retrosynthetically interesting chemical substructures (BRICS) \cite{BRICS} are highly correlated with reactants.&rdquo;<br>
+→ 解决方案：采用 BRICS 方法自动生成高质量的化学片段数据，从而扩展训练数据规模。</p>
+<ol start="5">
+<li>数据支持和结果验证</li>
+</ol>
+<p>通过实验，发现 BRICS 生成的片段和真实反应物具有高度相似性（81.3%、69.7%）。
+进一步分析所有分子的相似性分布，得出全局平均相似性 66.5%，证明 BRICS 片段具有统计上的可靠性。</p>
+<h3 id="总结">总结</h3>
+<p>清晰的递进关系：先阐述问题（缺乏数据集），再解释其影响（化学预测受限），然后提出研究动机，最后顺理成章地引出解决方案。<br>
+引导读者思考：没有直接提出解决方案，而是先提出数据规模问题，促使读者认同这个痛点，从而更容易接受 BRICS 方法。<br>
+数据支撑，增强可信度：不仅提出 BRICS 方法，还提供实验数据来证明其有效性，使得方案更具说服力。</p>
+<h1 id="challenge-2-任务之间的关联性问题">Challenge 2: 任务之间的关联性问题</h1>
+<ol>
+<li>问题定义（Challenge 2）</li>
+</ol>
+<p>&ldquo;Ignoring the correlation between predictions of reaction and retrosynthesis.&rdquo;<br>
+→ 研究背景： 现有方法通常把反应预测（Molecule-to-Reactants）和逆合成预测（Reactants-to-Molecules）作为独立任务，而忽略它们之间的关联性。</p>
+<ol start="2">
+<li>问题的影响</li>
+</ol>
+<p>&ldquo;Existing methods treat Molecule-to-Reactants and Reactants-to-Molecules as two independent tasks for learning \cite{wang2023retrosynthesis}.&rdquo;<br>
+→ 影响： 由于这两个任务是化学合成过程的正逆关系，如果分开处理，就会导致 LLM 无法充分理解化学合成机制，从而降低预测准确性。</p>
+<ol start="3">
+<li>研究动机</li>
+</ol>
+<p>&ldquo;Therefore, we regard Molecule-to-Reactants and Reactants-to-Molecules as forward task and backward task respectively and use a dual-task learning strategy to optimize these two tasks simultaneously.&rdquo;<br>
+→ 研究动机： 既然这两个任务本质上是互逆的，我们应该考虑一种联合学习策略，以提升 LLM 在这两个任务上的整体表现。</p>
+<ol start="4">
+<li>解决方案的引入</li>
+</ol>
+<p>&ldquo;As shown in Figure 1(c), the LLaMA equipped with dual-task learning achieves 6.3% performance improvement of Exact Match score on reaction prediction task.&rdquo;<br>
+→ 解决方案：提出双任务学习策略（dual-task learning），让 LLM 同时学习正向和逆向任务，以更好地建模化学合成的全局过程。</p>
+<ol start="5">
+<li>实验验证</li>
+</ol>
+<p>引入 LLaMA（一种 SOTA 的 LLM）来实现双任务学习。
+在 reaction prediction 任务上，精确匹配得分提升 6.3%，验证了该策略的有效性。</p>
+<h3 id="总结-1">总结</h3>
+<p>强化任务之间的逻辑联系：通过对比现有方法（独立训练）和新的联合学习方法（双任务学习），突出创新点。<br>
+避免突兀的方案引入：没有直接抛出双任务学习，而是先讲述 Molecule-to-Reactants 和 Reactants-to-Molecules 的关系，使得方案更加自然。<br>
+提供量化结果，增强说服力：不仅提出了方法，还通过 6.3% 的提升来证明它的有效性，让读者更容易接受这一改进。</p>
 
     </div>
 
@@ -872,7 +952,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F&amp;text=Method%E5%86%99%E4%BD%9C%E5%8E%9F%E5%88%99" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F&amp;text=Method%E4%B8%8EIntroduction%E5%86%99%E4%BD%9C%E4%BD%93%E4%BC%9A" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -889,7 +969,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F&amp;t=Method%E5%86%99%E4%BD%9C%E5%8E%9F%E5%88%99" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F&amp;t=Method%E4%B8%8EIntroduction%E5%86%99%E4%BD%9C%E4%BD%93%E4%BC%9A" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -908,7 +988,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Method%E5%86%99%E4%BD%9C%E5%8E%9F%E5%88%99&amp;body=https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Method%E4%B8%8EIntroduction%E5%86%99%E4%BD%9C%E4%BD%93%E4%BC%9A&amp;body=https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -925,7 +1005,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F&amp;title=Method%E5%86%99%E4%BD%9C%E5%8E%9F%E5%88%99" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F&amp;title=Method%E4%B8%8EIntroduction%E5%86%99%E4%BD%9C%E4%BD%93%E4%BC%9A" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -942,7 +1022,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Method%E5%86%99%E4%BD%9C%E5%8E%9F%E5%88%99%20https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Method%E4%B8%8EIntroduction%E5%86%99%E4%BD%9C%E4%BD%93%E4%BC%9A%20https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -959,7 +1039,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F&amp;title=Method%E5%86%99%E4%BD%9C%E5%8E%9F%E5%88%99" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fjacklingroup.github.io%2Ftutorial%2Fwriting%2Fmethod%2Fmethod%2F&amp;title=Method%E4%B8%8EIntroduction%E5%86%99%E4%BD%9C%E4%BD%93%E4%BC%9A" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

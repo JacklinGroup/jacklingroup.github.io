@@ -13,26 +13,28 @@
     </image>
     
     <item>
-      <title>Method写作原则</title>
+      <title>Method与Introduction写作体会</title>
       <link>https://jacklingroup.github.io/tutorial/writing/method/method/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://jacklingroup.github.io/tutorial/writing/method/method/</guid>
-      <description>&lt;h3 id=&#34;1-逻辑清晰层次分明&#34;&gt;1. 逻辑清晰，层次分明&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;一method写作原则&#34;&gt;一、Method写作原则&lt;/h2&gt;
+&lt;h3 id=&#34;1-逻辑清晰层次分明&#34;&gt;1. 逻辑清晰，层次分明&lt;/h3&gt;
 &lt;p&gt;首先会给出一张总图，描述整个研究的整体架构。然后，我按照模块划分Method部分，每个模块内部再细分子部分，如数据处理、模型设计、训练策略等。这样不仅便于读者逐步理解，也能避免冗长复杂的描述导致逻辑混乱。&lt;/p&gt;
 &lt;h3 id=&#34;2-适度使用图表与示例&#34;&gt;2. 适度使用图表与示例&lt;/h3&gt;
 &lt;p&gt;对于复杂的算法和模型架构，结合示意图和具体示例能极大提升描述的直观性。例如，在描述ChemDual的指令数据集构建流程时，我通过一张图展示了数据预处理、模板填充和最终指令生成的全流程，使得原本抽象的文本处理步骤变得一目了然。&lt;/p&gt;
 &lt;h3 id=&#34;3-兼顾细节与整体&#34;&gt;3. 兼顾细节与整体&lt;/h3&gt;
 &lt;p&gt;Method部分既要详细描述关键技术细节，如具体的分词策略等，也要在每个模块结尾简要总结其核心功能和对整体研究的贡献。这样可以帮助读者在深入理解技术细节的同时，始终把握研究的整体逻辑。&lt;/p&gt;
 &lt;h3 id=&#34;4-论文举例&#34;&gt;4. 论文举例&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;4.1 第一个子部分：整体研究设计概述&lt;/strong&gt;&lt;br&gt;
-在撰写Method部分的开头，我通常会用几句话概述研究的整体架构，例如ChemDual模型的三大核心模块：数据集构建、多尺度分词器、对偶任务学习。这一部分的目标是让读者快速理解研究的总体逻辑，并为接下来的细节描述奠定基础。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4.2 第二个子部分：数据集构建与预处理&lt;/strong&gt;&lt;br&gt;
-这一部分类似于研究的基础设施搭建，我会详细描述数据收集、清理和处理的每个步骤。例如，在ChemDual中，我描述了如何从ChEMBL-34数据库收集2000万条SMILES序列，并通过去重、无效分子过滤、长度限制等步骤得到最终的220万分子库。写作时，我发现精准描述每个处理标准（如使用RDKit过滤无效分子）不仅增加了研究的可复现性，也能增强论文的说服力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4.3 第三个子部分：多尺度分词器模块&lt;/strong&gt;&lt;br&gt;
-在ChemDual的多尺度分词器模块，我分层次介绍了分子片段、功能基团和特殊标记三种分词策略，并结合示意图解释了不同策略如何协同工作以捕捉分子多尺度信息。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4.4 第四个子部分：训练策略与损失函数&lt;/strong&gt;&lt;br&gt;
-训练策略的描述不仅要清晰解释模型的训练流程，还要突出关键创新点。在ChemDual的对偶任务学习模块，我分别描述了预训练阶段的碎片-重组任务和微调阶段的反应-逆合成任务，并通过数学公式定义了模型的优化目标和损失函数。明确区分前向任务和后向任务的关系，并用概率公式解释对偶任务的联合分布，有助于让读者深入理解模型的学习机制。&lt;/p&gt;
-&lt;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;4.1 第一个子部分：整体研究设计概述&lt;/strong&gt;
+在撰写Method部分的开头，我通常会用几句话概述研究的整体架构，例如ChemDual模型的三大核心模块：数据集构建、多尺度分词器、对偶任务学习。这一部分的目标是让读者快速理解研究的总体逻辑，并为接下来的细节描述奠定基础。&lt;br&gt;
+&lt;strong&gt;4.2 第二个子部分：数据集构建与预处理&lt;/strong&gt;
+这一部分类似于研究的基础设施搭建，我会详细描述数据收集、清理和处理的每个步骤。例如，在ChemDual中，我描述了如何从ChEMBL-34数据库收集2000万条SMILES序列，并通过去重、无效分子过滤、长度限制等步骤得到最终的220万分子库。写作时，我发现精准描述每个处理标准（如使用RDKit过滤无效分子）不仅增加了研究的可复现性，也能增强论文的说服力。&lt;br&gt;
+&lt;strong&gt;4.3 第三个子部分：多尺度分词器模块&lt;/strong&gt;
+在ChemDual的多尺度分词器模块，我分层次介绍了分子片段、功能基团和特殊标记三种分词策略，并结合示意图解释了不同策略如何协同工作以捕捉分子多尺度信息。&lt;br&gt;
+&lt;strong&gt;4.4 第四个子部分：训练策略与损失函数&lt;/strong&gt;
+训练策略的描述不仅要清晰解释模型的训练流程，还要突出关键创新点。在ChemDual的对偶任务学习模块，我分别描述了预训练阶段的碎片-重组任务和微调阶段的反应-逆合成任务，并通过数学公式定义了模型的优化目标和损失函数。明确区分前向任务和后向任务的关系，并用概率公式解释对偶任务的联合分布，有助于让读者深入理解模型的学习机制。
+
 
 
 
@@ -53,6 +55,84 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../20250303133018.png&#34; alt=&#34;paper&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;二introduction立意分析&#34;&gt;二、Introduction立意分析&lt;/h2&gt;
+&lt;p&gt;第一版的Introduction问题：逻辑不够清晰，过渡生硬&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;直接提出方案，缺乏背景铺垫
+第一版在介绍数据集挑战时，没有先详细说明为什么化学合成实验数据昂贵、难以获取，而是较快地跳转到解决方案（BRICS 片段）。这样读者可能会对“为什么需要另一种方式来构建大规模数据集”缺乏充分理解，从而降低了对研究价值的认同。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;任务之间的关系未得到充分强调
+在讨论 reaction prediction 和 retrosynthesis 任务时，第一版只是分别描述了这两个任务的独立性，而没有强调它们之间的内在联系。这样导致研究动机不够清晰，双任务学习策略的引入显得较为突兀，缺乏自然的逻辑递进。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;数据支持不够充分
+第一版可能提到了 BRICS 方法的优势，但没有提供明确的数值或实验结果支持（如全局平均相似性 66.5%、Exact Match 提升 6.3%）。缺乏这些数据，读者可能会对方法的有效性存疑，导致说服力不足。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在修改后版本中，这部分过渡逻辑十分清晰，遵循了一个典型的 &amp;ldquo;问题 → 影响 → 解决方案&amp;rdquo; 的学术写作结构，使读者能够自然地理解研究的动机，并接受作者提出的改进方法。下面拆解其关键的逻辑递进过程，并分析为什么这样的组织方式更具说服力。&lt;/p&gt;
+&lt;h3 id=&#34;challenge-1-数据集规模问题&#34;&gt;Challenge 1: 数据集规模问题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;问题定义（Challenge 1）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;Lacking a large-scale chemical synthesis-related instruction dataset.&amp;rdquo;&lt;br&gt;
+→ 研究背景： LLMs 的成功依赖于大规模、高质量的数据集，但化学合成相关的实验数据昂贵且难以获取。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;问题的影响&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;In predictions of reaction and retrosynthesis, high-quality data comes from actual chemical synthesis experiments in the laboratory, so it is costly and inefficient, resulting in limited data size.&amp;rdquo;&lt;br&gt;
+→ 影响： 由于实验成本高，数据规模受限，导致化学反应预测和逆合成预测（reaction &amp;amp; retrosynthesis）面临数据瓶颈。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;研究动机&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;Therefore, this motivates us to find an alternative with low acquisition cost (capable of quickly generating large-scale data) and high data quality (high relevance to real chemical synthesis).&amp;rdquo;&lt;br&gt;
+→ 研究动机： 需要一种成本低、规模大、质量高的数据生成方法，以支持 LLM 在化学预测中的学习。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;解决方案的引入&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;As shown in the top of Figure 1(a), we find that fragments generated by breaking of retrosynthetically interesting chemical substructures (BRICS) \cite{BRICS} are highly correlated with reactants.&amp;rdquo;&lt;br&gt;
+→ 解决方案：采用 BRICS 方法自动生成高质量的化学片段数据，从而扩展训练数据规模。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;数据支持和结果验证&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;通过实验，发现 BRICS 生成的片段和真实反应物具有高度相似性（81.3%、69.7%）。
+进一步分析所有分子的相似性分布，得出全局平均相似性 66.5%，证明 BRICS 片段具有统计上的可靠性。&lt;/p&gt;
+&lt;h3 id=&#34;总结&#34;&gt;总结&lt;/h3&gt;
+&lt;p&gt;清晰的递进关系：先阐述问题（缺乏数据集），再解释其影响（化学预测受限），然后提出研究动机，最后顺理成章地引出解决方案。&lt;br&gt;
+引导读者思考：没有直接提出解决方案，而是先提出数据规模问题，促使读者认同这个痛点，从而更容易接受 BRICS 方法。&lt;br&gt;
+数据支撑，增强可信度：不仅提出 BRICS 方法，还提供实验数据来证明其有效性，使得方案更具说服力。&lt;/p&gt;
+&lt;h1 id=&#34;challenge-2-任务之间的关联性问题&#34;&gt;Challenge 2: 任务之间的关联性问题&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;问题定义（Challenge 2）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;Ignoring the correlation between predictions of reaction and retrosynthesis.&amp;rdquo;&lt;br&gt;
+→ 研究背景： 现有方法通常把反应预测（Molecule-to-Reactants）和逆合成预测（Reactants-to-Molecules）作为独立任务，而忽略它们之间的关联性。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;问题的影响&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;Existing methods treat Molecule-to-Reactants and Reactants-to-Molecules as two independent tasks for learning \cite{wang2023retrosynthesis}.&amp;rdquo;&lt;br&gt;
+→ 影响： 由于这两个任务是化学合成过程的正逆关系，如果分开处理，就会导致 LLM 无法充分理解化学合成机制，从而降低预测准确性。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;研究动机&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;Therefore, we regard Molecule-to-Reactants and Reactants-to-Molecules as forward task and backward task respectively and use a dual-task learning strategy to optimize these two tasks simultaneously.&amp;rdquo;&lt;br&gt;
+→ 研究动机： 既然这两个任务本质上是互逆的，我们应该考虑一种联合学习策略，以提升 LLM 在这两个任务上的整体表现。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;解决方案的引入&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;As shown in Figure 1(c), the LLaMA equipped with dual-task learning achieves 6.3% performance improvement of Exact Match score on reaction prediction task.&amp;rdquo;&lt;br&gt;
+→ 解决方案：提出双任务学习策略（dual-task learning），让 LLM 同时学习正向和逆向任务，以更好地建模化学合成的全局过程。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;实验验证&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;引入 LLaMA（一种 SOTA 的 LLM）来实现双任务学习。
+在 reaction prediction 任务上，精确匹配得分提升 6.3%，验证了该策略的有效性。&lt;/p&gt;
+&lt;h3 id=&#34;总结-1&#34;&gt;总结&lt;/h3&gt;
+&lt;p&gt;强化任务之间的逻辑联系：通过对比现有方法（独立训练）和新的联合学习方法（双任务学习），突出创新点。&lt;br&gt;
+避免突兀的方案引入：没有直接抛出双任务学习，而是先讲述 Molecule-to-Reactants 和 Reactants-to-Molecules 的关系，使得方案更加自然。&lt;br&gt;
+提供量化结果，增强说服力：不仅提出了方法，还通过 6.3% 的提升来证明它的有效性，让读者更容易接受这一改进。&lt;/p&gt;
 </description>
     </item>
     
