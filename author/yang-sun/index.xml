@@ -5,12 +5,57 @@
     <link>https://jacklingroup.github.io/author/yang-sun/</link>
       <atom:link href="https://jacklingroup.github.io/author/yang-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Yang Sun</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Mar 2025 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jacklingroup.github.io/media/icon_hu3451340100773064862.png</url>
+      <url>https://jacklingroup.github.io/author/yang-sun/avatar_hu13916202644494478079.jpg</url>
       <title>Yang Sun</title>
       <link>https://jacklingroup.github.io/author/yang-sun/</link>
     </image>
+    
+    <item>
+      <title>第九届华中-华东地区生物信息学研讨会</title>
+      <link>https://jacklingroup.github.io/gallery/2025.03/</link>
+      <pubDate>Sun, 30 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>https://jacklingroup.github.io/gallery/2025.03/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;2025年3月30日，常州春意盎然，微风和煦，我们课题组在林老师的带领下，前往常州参加第九届华中-华东地区生物信息学研讨会。会上，各位专家学者分享了生物信息学领域的最新研究进展，我们积极参与讨论，交流心得，收获颇丰。&lt;br&gt;
+会议结束后，课题组一行来到常州历史文化街区——青果巷参观。青果巷古色古香，粉墙黛瓦，小桥流水，承载着厚重的文化底蕴。我们漫步在青石板路上，欣赏沿街保存完好的历史建筑，感受名人故居的文化氛围。大家品尝了当地特色小吃，沉浸在江南水乡的韵味之中。一路欢声笑语，尽情享受学术交流与文化之旅相结合的美好时光！
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;第九届华中-华东地区生物信息学研讨会&#34; srcset=&#34;
+               /gallery/2025.03/img_hu14324452158715925322.webp 400w,
+               /gallery/2025.03/img_hu15195956898889703728.webp 760w,
+               /gallery/2025.03/img_hu7546834127885292771.webp 1200w&#34;
+               src=&#34;https://jacklingroup.github.io/gallery/2025.03/img_hu14324452158715925322.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Abstract写作原则</title>
